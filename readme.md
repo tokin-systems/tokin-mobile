@@ -33,8 +33,8 @@
 
 ### Setup
 
-1. Create a fork https://github.com/sxan-experience/sxan-mobile#fork-destination-box
-2. Clone repo in terminal with `git clone https://github.com/sxan-experience/sxan-mobile.git`
+1. Create a fork https://github.com/sxan-experience/mobile#fork-destination-box
+2. Clone repo in terminal with `git clone https://github.com/sxan-experience/mobile.git`
 3. (Once) Add 'upstream' repo to list of remotes with `git remote add upstream https://github.com/`[insert your username here]`/sxan-mobile.git`
 4. (Once) Verify the new remote named 'upstream' with `git remote -v`
 5. (Optional) Fetch upstream remote to sync your fork with master `git fetch upstream`
