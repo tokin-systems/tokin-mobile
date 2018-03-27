@@ -1,0 +1,5 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="fill" android:orientation="horizontal"
+>
+    <item android:orientation="horizontal" android:drawable="@drawable/splash"/>
+
+</layer-list>

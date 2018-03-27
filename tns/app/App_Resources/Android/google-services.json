@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "686003458295",
+    "firebase_url": "https://sxan-89600.firebaseio.com",
+    "project_id": "sxan-89600",
+    "storage_bucket": "sxan-89600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686003458295:android:8b623374d1d102f6",
+        "android_client_info": {
+          "package_name": "org.nativescript.sxanmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686003458295-amsoc2snd3mb2s3r4tt9aro3adf79l2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1OOArdEhRybFWqWtYazEm6YaMNgzfEgk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

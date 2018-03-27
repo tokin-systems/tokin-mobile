@@ -1,0 +1,36 @@
+{
+  "description": "NativeScript Application ",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "readme": "NativeScript Application",
+  "repository": "<fill-your-repository-here>",
+  "nativescript": {
+    "id": "org.nativescript.sxanmobile",
+    "tns-ios": {
+      "version": "3.4.0"
+    }
+  },
+  "dependencies": {
+    "nativescript-gradient": "^2.0.1",
+    "nativescript-imagepicker": "^4.0.1",
+    "nativescript-localstorage": "^1.1.5",
+    "nativescript-orientation": "^2.1.0",
+    "nativescript-physics-js": "^2.0.1",
+    "nativescript-platform": "^1.2.2",
+    "nativescript-plugin-firebase": "^5.1.2",
+    "nativescript-pro-ui": "^3.2.0",
+    "nativescript-theme-core": "~1.0.2",
+    "nativescript-vue": "^0.1.6",
+    "performance-now": "^2.1.0",
+    "tns-core-modules": "^3.3.0",
+    "vue-router": "^3.0.1",
+    "vuefire": "^1.4.5",
+    "vuex": "^3.0.1",
+    "vuex-router-sync": "^5.0.0"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.26.0",
+    "babel-types": "6.26.0",
+    "babylon": "6.18.0",
+    "lazy": "1.0.11"
+  }
+}
