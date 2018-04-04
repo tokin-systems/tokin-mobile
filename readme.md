@@ -18,6 +18,8 @@
 
 * Connect plugins
 
+# very important
+SMS USE FOR EMERGING MARKETS
 
 ## Use
 
